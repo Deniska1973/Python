@@ -37,3 +37,4 @@ if __name__ == "__main__":
     k = 2
     total_list = generate_all_combinations(n, k)
     print_all_state(total_list)
+        print("test")
