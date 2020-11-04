@@ -8,7 +8,7 @@ Python:
 """
 import numpy as np
 import skfuzzy as fuzz
-
+#test to view changes
 if __name__ == "__main__":
     # Create universe of discourse in Python using linspace ()
     X = np.linspace(start=0, stop=75, num=75, endpoint=True, retstep=False)
